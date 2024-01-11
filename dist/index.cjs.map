@@ -1,1 +1,0 @@
-{"version":3,"file":"index.cjs","sources":["../src/core/index.ts"],"sourcesContent":["export interface A {\n  text: boolean;\n}\n\nexport const a: A = {\n  text: true,\n};\n"],"names":[],"mappings":";;AAIO,MAAM,IAAO;AAAA,EAClB,MAAM;AACR;;"}
